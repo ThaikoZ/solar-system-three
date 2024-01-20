@@ -1,7 +1,7 @@
 
 # Solar System Model with THREE.js
 
-The Solar System was made for University project.
+This Solar System was made for university project.
 
 
 ## Start
